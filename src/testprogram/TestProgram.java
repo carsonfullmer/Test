@@ -9,7 +9,7 @@ package testprogram;
  *
  * @author cfull
  */
-public class TestProgram {
+public class CelsiusToFahrenheit {
 
     /**
      * @param args the command line arguments
